@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "name": "drivers-license-barcode-generator",
+  "description": null,
+  "icons": {
+    "60": "/icons-f96e80f48b263adcc62c9f82bacbd985/firefox_app_60x60.png",
+    "128": "/icons-f96e80f48b263adcc62c9f82bacbd985/firefox_app_128x128.png",
+    "512": "/icons-f96e80f48b263adcc62c9f82bacbd985/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": null,
+    "url": null
+  }
+}
